@@ -1,0 +1,155 @@
+<uitspraak id="ECLI:NL:CBB:2005:AU8304:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <para>College van Beroep voor het bedrijfsleven</para>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>AWB 05/155				6 december 2005</para>
+      <para>40000 Wet bestuursrechtspraak bedrijfsorganisatie</para>
+    </parablock>
+    <para />
+    <para />
+    <para> </para>
+    <para>Uitspraak in de zaak van:</para>
+    <para />
+    <parablock>
+      <para>A B.V., te X, appellante,</para>
+      <para>gemachtigde: mr. G.J.M. de Jager, advocaat te Tilburg,</para>
+      <para>tegen</para>
+      <para>Minister van Landbouw, Natuur en Voedselkwaliteit, verweerder,</para>
+      <para>gemachtigde: mr. J.A. Diephuis, werkzaam bij verweerder.</para>
+    </parablock>
+    <para />
+    <para> </para>
+    <parablock>
+      <para>1.	De procedure</para>
+      <para>Appellante heeft bij brief van 2 maart 2005, bij het College binnengekomen op gelijke datum, beroep ingesteld tegen een besluit van verweerder van 27 januari 2005.</para>
+      <para>Bij dit besluit heeft verweerder appellantes bezwaren tegen een brief van 13 september 2004 van de Voedsel- en warenautoriteit niet ontvankelijk verklaard.</para>
+      <para>Bij brief van 1 april 2005 heeft appellante de gronden voor het beroep aangevoerd en stukken ingediend.</para>
+      <para>Bij brief van 27 april 2005 heeft verweerder een verweerschrift ingediend en de op de zaak betrekking hebbende stukken overgelegd.</para>
+      <para>Bij brief van 11 oktober 2005 heeft verweerder het College laten weten dat de werkzaamheden van appellante met ingang van 10 januari 2005 zijn overgenomen door een ander bedrijf.</para>
+      <para>Bij brief van 24 oktober 2005 heeft appellantes gemachtigde laten weten niet ter zitting te zullen verschijnen.</para>
+      <para>Op 25 oktober 2005 heeft het onderzoek ter zitting plaatsgehad, waarbij verweerders gemachtigde is verschenen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>2.	De grondslag van het geschil</para>
+      <para>2.1 De Gezondheid- en Welzijnswet voor dieren bepaalt voor zover hier van belang:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>"Artikel 77</para>
+      <para>1. Het anders dan in doorvoer brengen van vee of pluimvee buiten Nederland is verboden.</para>
+      <para>2. Het in het eerste lid vermelde verbod geldt niet indien de dieren overeenkomstig door Onze Minister gestelde regelen zijn voorzien van een of meer merken en vergezeld gaan van een of meer bewijsstukken aangebracht onderscheidenlijk afgegeven op grond van een van Rijkswege ingesteld onderzoek ten bewijze dat voldaan is aan de met het oog op deze uitvoer door hem gestelde eisen met betrekking tot:</para>
+      <para>a. de identificatie der dieren;</para>
+      <para>b. de gezondheidstoestand der dieren;</para>
+      <para>c. de voorbehoedende behandeling der dieren;</para>
+      <para>d. de bedrijven waarop de dieren hebben verbleven en de gezondheidstoestand der dieren op die bedrijven;</para>
+      <para>e. de markten waarop de dieren zijn aangekocht en de plaatsen waarop de dieren zijn verzameld;</para>
+      <para>f. de vervoermiddelen alsmede de inlading en het vervoer der dieren;</para>
+      <para>g. andere onderwerpen, voor zover de nakoming van internationale overeenkomsten of van volkenrechtelijke organisaties zulks met zich brengt.</para>
+      <para>3. Ter uitvoering van het bepaalde in het tweede lid kan Onze Minister voorts regelen stellen met betrekking tot:</para>
+      <para>a. de plaatsen waar, alsmede de tijdruimten waarbinnen vee en pluimvee ter onderzoek kunnen worden aangeboden;</para>
+      <para>b. de wijze waarop de dieren voor het onderzoek bedoeld in onderdeel c moeten worden aangeboden;</para>
+      <para>c. het onderzoek;</para>
+      <para>d. de wijze waarop het in het tweede lid bedoelde bewijsstuk kan worden verkregen;</para>
+      <para>e. het toezicht."</para>
+    </parablock>
+    <para />
+    <para>De Regeling betreffende het bijeenbrengen van dieren 2000 bepaalde ten tijde hier van belang:</para>
+    <para />
+    <parablock>
+      <para>"Artikel 1</para>
+      <para>In deze regeling wordt verstaan onder:</para>
+      <para>a. wet: Gezondheids- en welzijnswet voor dieren;</para>
+      <para>b. verzamelen van varkens: op één plaats tijdelijk bijeenbrengen van varkens, afkomstig van verschillende plaatsen;</para>
+      <para>c. varkensverzamelcentrum: plaats in Nederland ten behoeve van de verzameling van varkens;</para>
+      <para>(…)</para>
+      <para>g. werkzaamheden: controle als bedoeld in artikel 18, tweede lid, van de wet;</para>
+      <para>(…)</para>
+      <para>k. aanbieder: exploitant, eigenaar of diens vertegenwoordiger van onderscheidenlijk een varkensverzamelcentrum, een runderverzamelcentrum, een schapenverzamelcentrum, of een geitenverzamelcentrum;</para>
+      <para>(…)</para>
+      <para>v. certificaat: schriftelijke verklaring naar aanleiding van de onder g genoemde werkzaamheden;</para>
+      <para>w. dierenarts: bevoegde, door de VWA met werkzaamheden belaste dierenarts;</para>
+      <para>x. assistent: door de VWA met werkzaamheden belaste persoon, niet zijnde een dierenarts;</para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 9</para>
+      <para>Het afvoeren van varkens vanaf een varkensverzamelcentrum is verboden, tenzij:</para>
+      <para>(…)</para>
+      <para>c. de varkens vanaf het varkensverzamelcentrum overeenkomstig artikel 4 van richtlijn 64/432/EEG naar een of meer bestemmingen buiten Nederland worden vervoerd, in welk geval de varkens, voorzover zij afkomstig zijn uit Nederland, vergezeld gaan van een bewijsstuk, als bedoeld in artikel 77, tweede lid, van de wet,</para>
+      <para>(…)"</para>
+    </parablock>
+    <para />
+    <para>De Regeling tarieven Gezondheids- en Welzijnswet voor dieren bepaalt:</para>
+    <para />
+    <parablock>
+      <para>"Artikel 1</para>
+      <para>In deze regeling wordt verstaan onder:</para>
+      <para>(…)</para>
+      <para>werkzaamheden: onderzoeken en keuringen;</para>
+      <para>(…)</para>
+      <para>aanbieder: degene die de werkzaamheden laat verrichten of wenst te laten verrichten dan wel, indien het de toepassing van artikel 5, 5aa of 5bb betreft, de importeur of diens douaneagent dan wel, indien het de toepassing van artikel 5a betreft, de importeur, diens douaneagent of de exploitant of de eigenaar van de desbetreffende inrichting;</para>
+      <para>betalingsplichtige: degene die ingevolge een of meer bepalingen van deze regeling is verplicht dan wel zal zijn verplicht tot betaling van een op grond van deze regeling vastgestelde dan wel vast te stellen vergoeding;</para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5b</para>
+      <para>Voor het onderzoek, bedoeld in artikel 77, tweede lid, van de Gezondheids- en welzijnswet voor dieren, voorzover dit betrekking heeft op het anders dan in doorvoer buiten Nederland brengen van vee, en voorzover dit binnen openingstijd wordt verricht, is de aanbieder een vergoeding verschuldigd, bestaande uit een starttarief van € 35,92 en een bedrag van</para>
+      <para>a. € 28,65 per kwartier dat aan de werkzaamheden door een dierenarts is besteed, en</para>
+      <para>b. € 17,03 per kwartier dat aan de werkzaamheden door een assistent is besteed."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>2.2	Op grond van de stukken en het onderzoek ter zitting zijn in deze zaak de volgende feiten en omstandigheden voor het College komen vast te staan.</para>
+      <para>- In augustus 2004 hebben zich in het kader van exportkeuringen een tweetal incidenten voorgedaan op appellantes bedrijf.</para>
+      <para>- Deze incidenten hebben de kringdirecteur van de Voedsel- en Warenautoriteit onder meer aanleiding gegeven tot het sturen van een brief, gedateerd 13 september 2004, (hierna ook: de brief) aan appellante met de volgende inhoud:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>"Hierbij bevestig ik het gesprek dat ik met u heb gehad op 13 september 2004. In dit gesprek heb ik aangegeven dat ik de werkzaamheden vanwege de VWA/RVV op uw bedrijf heb gestaakt, omdat het vanwege plaatsgevonden incidenten niet mogelijk is de werkzaamheden onafhankelijk en ongehinderd uit te voeren. </para>
+      <para>U hebt mij aangegeven dat u niet in staat bent zodanige maatregelen te treffen dat het onafhankelijk en ongehinderd uitvoeren van de werkzaamheden weer mogelijk is.</para>
+      <para>Ik heb derhalve besloten werkzaamheden op uw bedrijf door twee personen te laten uitvoeren.</para>
+      <para>(…)"</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>- Bij brief van 21 oktober 2004 heeft appellante hiertegen bezwaar gemaakt.</para>
+      <para>- Bij brief van 7 december 2004 heeft appellante een verzoek tot voorlopige voorziening ingediend, hangende de bezwaarprocedure tegen verweerders brief. </para>
+      <para>- Bij brief van 23 december 2004 heeft appellante haar verzoek ingetrokken. </para>
+      <para>- Vervolgens heeft verweerder het bestreden besluit genomen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>3.	Het bestreden besluit</para>
+      <para>Bij het bestreden besluit heeft verweerder appellantes bezwaren niet-ontvankelijk verklaard en daartoe overwogen dat de brief niet gericht is op rechtsgevolg en derhalve geen besluit inhoudt in de zin van artikel 1:3 Awb. Aangezien geen sprake is van een besluit, kan tegen de brief geen bezwaar en beroep worden ingesteld. Daartoe heeft verweerder, samengevat weergegeven, het volgende overwogen.</para>
+      <para>In de brief van 13 september 2004 wordt medegedeeld dat in de toekomst de keuringswerkzaamheden door twee personen zullen worden verricht. Deze mededeling is van feitelijke aard. Een mogelijk rechtsgevolg ontstaat naar de opvatting van verweerder pas, als een betalingsverplichting wegens de werkzaamheden kan worden aangenomen. Deze betalingsverplichting ontstaat pas wanneer de werkzaamheden daadwerkelijk door een factuur in rekening worden gebracht. De brief valt niet als zodanige factuur aan te merken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>4.	Het standpunt van appellante</para>
+      <para>Appellante staat op het standpunt dat uit de brief wel rechtsgevolg voortvloeit, omdat in het vervolg met twee personen wordt gekeurd. Dit heeft tot gevolg dat appellante twee personen moet dulden, terwijl hij op basis van de vigerende regelgeving slecht één keuringsarts hoeft te verwachten. Het gaat volgens appellante te ver om van haar te verwachten dat zij de facturen afwacht, waarbij geldt dat deze direct tot een betalingsverplichting leiden. Dit zou ertoe leiden dat appellantes kosten hoog oplopen. Appellante is van opvatting dat een mogelijkheid moet bestaan om de vraag naar de juistheid van de genomen beslissing in een vroegtijdig stadium aan de orde te stellen. </para>
+      <para>Daarnaast stelt appellante dat in de brief ook is vervat het onder bepaalde voorwaarden opheffen van een besluit tot staken van de werkzaamheden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>5.	De beoordeling van het geschil</para>
+      <para>5.1 Ingevolge artikel 8:1, eerste lid, juncto artikel 7:1, eerste lid, Awb kan een belanghebbende bezwaar maken tegen een besluit. Blijkens artikel 1:3, eerste lid, Awb wordt onder een besluit verstaan: een schriftelijke beslissing van een bestuursorgaan inhoudende een publiekrechtelijke rechtshandeling. Ter beoordeling staat de vraag of de brief een publiekrechtelijke rechtshandeling inhoudt.</para>
+      <para>5.2 Het College beantwoordt deze vraag ontkennend. Het College stelt voorop dat het, anders dan appellante, niet in de brief leest dat verweerder een eerdere staking van werkzaamheden onder bepaalde voorwaarden opheft. Uit de bewoordingen van de brief blijkt dat verweerder moeilijkheden heeft ondervonden bij het uitvoeren van de keuringswerkzaamheden op appellantes bedrijf en voorts hoe verweerder deze moeilijkheden wil voorkomen, namelijk door de werkzaamheden op appellantes bedrijf door twee personen te laten uitvoeren. De brief behelst een mededeling van feitelijke aard over de wijze waarop verweerder de keuringswerkzaamheden bij appellante denkt te gaan uitvoeren. Hetgeen in de brief is vermeld, brengt geen verandering aan in de rechten of verplichtingen van appellante. </para>
+      <para>Het College neemt daarbij in aanmerking dat de beslissing waarbij verweerder de kosten voor de keuring in rekening brengt,  een besluit vormt in de zin van artikel 1:3, eerste lid, Awb, aangezien daardoor voor appellante een wijziging in haar rechtspositie ontstaat doordat haar de verplichting wordt opgelegd te betalen. Voor zover aan appellante hogere kosten in rekening worden gebracht voor het inzetten van twee personen, kan appellante de rechtmatigheid daarvan derhalve desgewenst aan de orde stellen in het kader van een betwisting van de juistheid van de facturen voor de verrichte werkzaamheden.</para>
+      <para>5.3 Uit het voorgaande volgt dat verweerder appellante terecht niet-ontvankelijk heeft verklaard in haar bezwaar. Het beroep is ongegrond. </para>
+      <para>5.4 Voor een vergoeding van proceskosten op voet van artikel 8:75 Awb ziet het College geen aanleiding.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>6. De beslissing</para>
+      <para>Het College verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para>Aldus gewezen door mr. B. Verwayen, mr. A.J.C. de Moor-van Vugt en mr. J.H.W. de Planque, in tegenwoordigheid van mr. A. Graefe als griffier, en uitgesproken in het openbaar op 6 december 2005.</para>
+    <para />
+    <para>w.g. B.Verwayen				w.g. A. Graefe</para>
+  </uitspraak>

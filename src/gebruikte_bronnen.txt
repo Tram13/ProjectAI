@@ -1,0 +1,12 @@
+https://github.com/google-research/bert
+https://github.com/huggingface/transformers
+https://arxiv.org/pdf/1810.04805.pdf
+https://medium.com/towards-artificial-intelligence/sentence-embeddings-with-sentence-transformers-library-7420fc6e3815
+https://www.sbert.net/
+https://stackoverflow.com/questions/4576077/how-can-i-split-a-text-into-sentences   # geen meme ik zweer
+https://www.rechtspraak.nl/Uitspraken/paginas/open-data.aspx
+thesis masterstudent
+
+https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+eigen Cursus AI
+https://arxiv.org/pdf/1706.03762.pdf

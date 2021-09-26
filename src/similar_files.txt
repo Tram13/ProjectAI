@@ -1,0 +1,31 @@
+inputfile 1: ECLI_NL_CBB_2005_AT3914.txt (200503)
+
+SIMILAR: ECLI_NL_CBB_2005_AT6103.txt (200504)
+word2vec -> similarity 0.9431978464126587
+doc2vec -> similarity 0.7665196657180786
+ROBERT_unpreprocessed -> similarity +- 85
+ROBERT -> similarity  0.9279
+
+NOT SIMILAR: ECLI_NL_RBAMS_2005_AU7031.txt (200510)
+word2vec -> similarity 0.331223726272583
+doc2vec -> similarity 0.07777900993824005
+ROBERT_unpreprocessed -> similarity +- 55
+ROBERT -> similarity 0.7638
+
+
+---------------------------------------
+
+
+inputfile 2: ECLI_NL_CRVB_2005_AU1487.txt (200508)
+
+SIMILAR: ECLI_NL_CRVB_2005_AT5986.txt (200505)
+word2vec -> similarity 0.9579649567604065
+doc2vec -> similarity 0.6116303205490112
+ROBERT_unpreprocessed -> similarity 0.8402
+ROBERT -> similarity 0.8571
+
+NOT SIMILAR: ECLI_NL_GHAMS_2005_AT5821.txt (200502)
+word2vec -> similarity 0.22357691824436188
+doc2vec -> similarity 0.2991425096988678
+ROBERT_unpreprocessed -> similarity 0.6280
+ROBERT -> similarity 0.4174
